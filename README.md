@@ -81,9 +81,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IlhamSetiaji/IlhamSetiaji/output/snake.svg" alt="Snake animation" />
-
-###
